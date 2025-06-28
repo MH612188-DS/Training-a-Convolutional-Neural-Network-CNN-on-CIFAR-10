@@ -1,1 +1,7 @@
+# After training for 10 epochs, the model achieves reasonable classification accuracy on the test set. Performance can be improved by:
 
+Increasing the number of epochs
+
+Adding data augmentation
+
+Experimenting with deeper models or different optimizers
